@@ -1,9 +1,9 @@
 {
+    "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+    "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+    "date": "2018-06-09",
+    "stadium": "GROUPAMA ARENA",
     "team1": "Hungary",
     "team2": "Australia",
-    "date": "2018-06-09",
-    "time": "21:00",
-    "crestUri1": "",
-    "crestUri2": ,
-    "stadium": "GROUPAMA ARÉNA"
+    "time": "21:00"
 }

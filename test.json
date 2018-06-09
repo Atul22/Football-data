@@ -1,59 +1,111 @@
 {
-  "fixtures": [
-    {
-      "channel": null,
-      "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-      "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
-      "date": "2018-06-09",
-      "stadium": "GROUPAMA ARENA",
-      "team1": "Hungary",
-      "team2": "Australia",
-      "time": "21:00",
-      "tournament": "Friendly"
-    },
-    {
-      "channel": null,
-      "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-      "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
-      "date": "2018-06-10",
-      "stadium": "GROUPAMA ARENA",
-      "team1": "Austria",
-      "team2": "Brazil",
-      "time": "19:30",
-      "tournament": "Friendly"
-    },
-    {
-      "channel": null,
-      "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-      "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
-      "date": "2018-06-09",
-      "stadium": "GROUPAMA ARENA",
-      "team1": "Hungary",
-      "team2": "Australia",
-      "time": "21:00",
-      "tournament": "Friendly"
-    },
-    {
-      "channel": null,
-      "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-      "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
-      "date": "2018-06-09",
-      "stadium": "GROUPAMA ARENA",
-      "team1": "Hungary",
-      "team2": "Australia",
-      "time": "21:00",
-      "tournament": "Friendly"
-    },
-    {
-      "channel": null,
-      "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-      "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
-      "date": "2018-06-09",
-      "stadium": "GROUPAMA ARENA",
-      "team1": "Hungary",
-      "team2": "Australia",
-      "time": "21:00",
-      "tournament": "Friendly"
-    }
-  ]
+  "fixtures": {
+    "0": [
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-10",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      },
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-10",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Austria",
+        "team2": "Brazil",
+        "time": "19:30",
+        "tournament": "Friendly"
+      },
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      }
+    ],
+    "1": [
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      },
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      }
+    ],
+    "2": [
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      },
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      }
+    ],
+    "3": [
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      },
+      {
+        "channel": null,
+        "crestUri1": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "crestUri2": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "date": "2018-06-09",
+        "stadium": "GROUPAMA ARENA",
+        "team1": "Hungary",
+        "team2": "Australia",
+        "time": "21:00",
+        "tournament": "Friendly"
+      }
+    ]
+  }
 }

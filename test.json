@@ -1,25 +1,9 @@
 {
-    "_links": {
-        "fixtures": {
-            "href": "http://api.football-data.org/v1/competitions/467/fixtures"
-        },
-        "leagueTable": {
-            "href": "http://api.football-data.org/v1/competitions/467/leagueTable"
-        },
-        "self": {
-            "href": "http://api.football-data.org/v1/competitions/467"
-        },
-        "teams": {
-            "href": "http://api.football-data.org/v1/competitions/467/teams"
-        }
-    },
-    "caption": "World Cup 2018",
-    "currentMatchday": 1,
-    "id": 467,
-    "lastUpdated": "2018-05-25T07:21:47Z",
-    "league": "WC",
-    "numberOfGames": 64,
-    "numberOfMatchdays": 8,
-    "numberOfTeams": 32,
-    "year": "2018"
+    "team1": "Hungary",
+    "team2": "Australia",
+    "date": "2018-06-09",
+    "time": "21:00",
+    "crestUri1": "",
+    "crestUri2": ,
+    "stadium": "GROUPAMA ARÉNA"
 }

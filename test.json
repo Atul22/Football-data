@@ -430,20 +430,20 @@
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ct5bxskoczd1sizdp0sv6up7s.png", 
         "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41h9qlpbu053buypjhxtbuhxs.png", 
         "date": "2018-06-26", 
-        "stadium": "", 
+        "stadium": "Victoria Stadium", 
         "team1": "FC Santa Coloma", 
         "team2": " Drita", 
-        "time": "00:00:", 
+        "time": "15:30:", 
         "tournament": "UEFA Champions League"
       }, 
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
         "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
         "date": "2018-06-26", 
-        "stadium": "", 
+        "stadium": "Victoria Stadium", 
         "team1": "La Fiorita", 
         "team2": " Lincoln Red Imps", 
-        "time": "00:00:", 
+        "time": "19:00:", 
         "tournament": "UEFA Champions League"
       }
     ], 

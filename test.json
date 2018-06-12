@@ -1,3 +1,779 @@
 {
-  "fixtures": {}
+  "fixtures": {
+    "2018-06-13": [], 
+    "2018-06-14": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f0frccyrlq2jjihdraoie2e2d.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l4imoomrnyceg5u3kdxf5l5r.png", 
+        "date": "2018-06-14", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "Russia", 
+        "team2": " Saudi Arabia", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-15": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3669sbeijslw88073qlw1cbcp.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l06impjllgop0gte8fldb4zo.png", 
+        "date": "2018-06-15", 
+        "stadium": "Ekaterinburg Arena", 
+        "team1": "Egypt", 
+        "team2": " Uruguay", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_avggs3u2b5cu8i1dnzknhth52.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cubclbw5k5gdqdau95bnav0nn.png", 
+        "date": "2018-06-15", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "Morocco", 
+        "team2": " Iran", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8gxg8f7p9299jbrz30u8bsc7g.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eh7yt2x2wck51oixw8012ux5j.png", 
+        "date": "2018-06-15", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "Portugal", 
+        "team2": " Spain", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-16": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bl4fd8cxe6kjvjx8br82gkhnq.png", 
+        "date": "2018-06-16", 
+        "stadium": "Kazan' Arena", 
+        "team1": "France", 
+        "team2": " Australia", 
+        "time": "10:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ak48fkypnql8y4n69cvcq5ghc.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5gv6rrm6m6ixf8nff08vx7i9m.png", 
+        "date": "2018-06-16", 
+        "stadium": "Otkrytiye Arena", 
+        "team1": "Argentina", 
+        "team2": " Iceland", 
+        "time": "13:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_a9sendamrqqz1uv4jc89mfum8.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_akblgvrthxxgta4ou9lnslxgb.png", 
+        "date": "2018-06-16", 
+        "stadium": "Mordovia Arena", 
+        "team1": "Peru", 
+        "team2": " Denmark", 
+        "time": "16:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4njsfszcgd9m765d6suktsz2a.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ao3zo8i0kn3grl47nol24gck0.png", 
+        "date": "2018-06-16", 
+        "stadium": "Kaliningrad Stadium", 
+        "team1": "Croatia", 
+        "team2": " Nigeria", 
+        "time": "19:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-17": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bfgqfm4qa3mal7fll74wd04mu.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ome9qbio8c3r9lmhx2hg6kif.png", 
+        "date": "2018-06-17", 
+        "stadium": "Samara Arena", 
+        "team1": "Costa Rica", 
+        "team2": " Serbia", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3l2t2db0c5ow2f7s7bhr6mij4.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4vofb84dzb5fyc81n2ssws6ah.png", 
+        "date": "2018-06-17", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "Germany", 
+        "team2": " Mexico", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ajab3nmpoltsoeqcuoyi4pwzx.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_339wxbt07ltnva7hop6m5o477.png", 
+        "date": "2018-06-17", 
+        "stadium": "Rostov Arena", 
+        "team1": "Brazil", 
+        "team2": " Switzerland", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-18": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4w1ktgu1nbbgqfe3ssbb4fg5v.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1yghbv1c71b37eenutbwnvvq.png", 
+        "date": "2018-06-18", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "Sweden", 
+        "team2": " Korea Republic", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_pfvmhackqyhhk02majd2tb8l.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8856r86rattc8kxn6a0l9tb2t.png", 
+        "date": "2018-06-18", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "Belgium", 
+        "team2": " Panama", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ctp7ovvf34m7fzshua9ogbr6i.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ck8m1cn23sukwsurgx5qakttk.png", 
+        "date": "2018-06-18", 
+        "stadium": "Volgograd Arena", 
+        "team1": "Tunisia", 
+        "team2": " England", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-19": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7km4szeh6fs5bbdgypshh0snd.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6duaxcbrofil112qfq4v895go.png", 
+        "date": "2018-06-19", 
+        "stadium": "Mordovia Arena", 
+        "team1": "Colombia", 
+        "team2": " Japan", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ba25ib8pofxr85hkbs8lt7kw7.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2wk1549tkz80oet8226euj7jp.png", 
+        "date": "2018-06-19", 
+        "stadium": "Otkrytiye Arena", 
+        "team1": "Poland", 
+        "team2": " Senegal", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f0frccyrlq2jjihdraoie2e2d.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3669sbeijslw88073qlw1cbcp.png", 
+        "date": "2018-06-19", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "Russia", 
+        "team2": " Egypt", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-20": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8gxg8f7p9299jbrz30u8bsc7g.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_avggs3u2b5cu8i1dnzknhth52.png", 
+        "date": "2018-06-20", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "Portugal", 
+        "team2": " Morocco", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l06impjllgop0gte8fldb4zo.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l4imoomrnyceg5u3kdxf5l5r.png", 
+        "date": "2018-06-20", 
+        "stadium": "Rostov Arena", 
+        "team1": "Uruguay", 
+        "team2": " Saudi Arabia", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cubclbw5k5gdqdau95bnav0nn.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eh7yt2x2wck51oixw8012ux5j.png", 
+        "date": "2018-06-20", 
+        "stadium": "Kazan' Arena", 
+        "team1": "Iran", 
+        "team2": " Spain", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-21": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_akblgvrthxxgta4ou9lnslxgb.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bl4fd8cxe6kjvjx8br82gkhnq.png", 
+        "date": "2018-06-21", 
+        "stadium": "Samara Arena", 
+        "team1": "Denmark", 
+        "team2": " Australia", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_a9sendamrqqz1uv4jc89mfum8.png", 
+        "date": "2018-06-21", 
+        "stadium": "Ekaterinburg Arena", 
+        "team1": "France", 
+        "team2": " Peru", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ak48fkypnql8y4n69cvcq5ghc.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4njsfszcgd9m765d6suktsz2a.png", 
+        "date": "2018-06-21", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "Argentina", 
+        "team2": " Croatia", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-22": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ajab3nmpoltsoeqcuoyi4pwzx.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bfgqfm4qa3mal7fll74wd04mu.png", 
+        "date": "2018-06-22", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "Brazil", 
+        "team2": " Costa Rica", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ao3zo8i0kn3grl47nol24gck0.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5gv6rrm6m6ixf8nff08vx7i9m.png", 
+        "date": "2018-06-22", 
+        "stadium": "Volgograd Arena", 
+        "team1": "Nigeria", 
+        "team2": " Iceland", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ome9qbio8c3r9lmhx2hg6kif.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_339wxbt07ltnva7hop6m5o477.png", 
+        "date": "2018-06-22", 
+        "stadium": "Kaliningrad Stadium", 
+        "team1": "Serbia", 
+        "team2": " Switzerland", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-23": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_pfvmhackqyhhk02majd2tb8l.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ctp7ovvf34m7fzshua9ogbr6i.png", 
+        "date": "2018-06-23", 
+        "stadium": "Otkrytiye Arena", 
+        "team1": "Belgium", 
+        "team2": " Tunisia", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1yghbv1c71b37eenutbwnvvq.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4vofb84dzb5fyc81n2ssws6ah.png", 
+        "date": "2018-06-23", 
+        "stadium": "Rostov Arena", 
+        "team1": "Korea Republic", 
+        "team2": " Mexico", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3l2t2db0c5ow2f7s7bhr6mij4.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4w1ktgu1nbbgqfe3ssbb4fg5v.png", 
+        "date": "2018-06-23", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "Germany", 
+        "team2": " Sweden", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-24": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ck8m1cn23sukwsurgx5qakttk.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8856r86rattc8kxn6a0l9tb2t.png", 
+        "date": "2018-06-24", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "England", 
+        "team2": " Panama", 
+        "time": "12:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6duaxcbrofil112qfq4v895go.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2wk1549tkz80oet8226euj7jp.png", 
+        "date": "2018-06-24", 
+        "stadium": "Ekaterinburg Arena", 
+        "team1": "Japan", 
+        "team2": " Senegal", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ba25ib8pofxr85hkbs8lt7kw7.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7km4szeh6fs5bbdgypshh0snd.png", 
+        "date": "2018-06-24", 
+        "stadium": "Kazan' Arena", 
+        "team1": "Poland", 
+        "team2": " Colombia", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-25": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l4imoomrnyceg5u3kdxf5l5r.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3669sbeijslw88073qlw1cbcp.png", 
+        "date": "2018-06-25", 
+        "stadium": "Volgograd Arena", 
+        "team1": "Saudi Arabia", 
+        "team2": " Egypt", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l06impjllgop0gte8fldb4zo.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f0frccyrlq2jjihdraoie2e2d.png", 
+        "date": "2018-06-25", 
+        "stadium": "Samara Arena", 
+        "team1": "Uruguay", 
+        "team2": " Russia", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cubclbw5k5gdqdau95bnav0nn.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8gxg8f7p9299jbrz30u8bsc7g.png", 
+        "date": "2018-06-25", 
+        "stadium": "Mordovia Arena", 
+        "team1": "Iran", 
+        "team2": " Portugal", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eh7yt2x2wck51oixw8012ux5j.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_avggs3u2b5cu8i1dnzknhth52.png", 
+        "date": "2018-06-25", 
+        "stadium": "Kaliningrad Stadium", 
+        "team1": "Spain", 
+        "team2": " Morocco", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-26": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bl4fd8cxe6kjvjx8br82gkhnq.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_a9sendamrqqz1uv4jc89mfum8.png", 
+        "date": "2018-06-26", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "Australia", 
+        "team2": " Peru", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_akblgvrthxxgta4ou9lnslxgb.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png", 
+        "date": "2018-06-26", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "Denmark", 
+        "team2": " France", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5gv6rrm6m6ixf8nff08vx7i9m.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4njsfszcgd9m765d6suktsz2a.png", 
+        "date": "2018-06-26", 
+        "stadium": "Rostov Arena", 
+        "team1": "Iceland", 
+        "team2": " Croatia", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ao3zo8i0kn3grl47nol24gck0.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ak48fkypnql8y4n69cvcq5ghc.png", 
+        "date": "2018-06-26", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "Nigeria", 
+        "team2": " Argentina", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ct5bxskoczd1sizdp0sv6up7s.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41h9qlpbu053buypjhxtbuhxs.png", 
+        "date": "2018-06-26", 
+        "stadium": "", 
+        "team1": "FC Santa Coloma", 
+        "team2": " Drita", 
+        "time": "00:00:", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
+        "date": "2018-06-26", 
+        "stadium": "", 
+        "team1": "La Fiorita", 
+        "team2": " Lincoln Red Imps", 
+        "time": "00:00:", 
+        "tournament": "UEFA Champions League"
+      }
+    ], 
+    "2018-06-27": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1yghbv1c71b37eenutbwnvvq.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3l2t2db0c5ow2f7s7bhr6mij4.png", 
+        "date": "2018-06-27", 
+        "stadium": "Kazan' Arena", 
+        "team1": "Korea Republic", 
+        "team2": " Germany", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4vofb84dzb5fyc81n2ssws6ah.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4w1ktgu1nbbgqfe3ssbb4fg5v.png", 
+        "date": "2018-06-27", 
+        "stadium": "Ekaterinburg Arena", 
+        "team1": "Mexico", 
+        "team2": " Sweden", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ome9qbio8c3r9lmhx2hg6kif.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ajab3nmpoltsoeqcuoyi4pwzx.png", 
+        "date": "2018-06-27", 
+        "stadium": "Otkrytiye Arena", 
+        "team1": "Serbia", 
+        "team2": " Brazil", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_339wxbt07ltnva7hop6m5o477.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bfgqfm4qa3mal7fll74wd04mu.png", 
+        "date": "2018-06-27", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "Switzerland", 
+        "team2": " Costa Rica", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-28": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6duaxcbrofil112qfq4v895go.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ba25ib8pofxr85hkbs8lt7kw7.png", 
+        "date": "2018-06-28", 
+        "stadium": "Volgograd Arena", 
+        "team1": "Japan", 
+        "team2": " Poland", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2wk1549tkz80oet8226euj7jp.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7km4szeh6fs5bbdgypshh0snd.png", 
+        "date": "2018-06-28", 
+        "stadium": "Samara Arena", 
+        "team1": "Senegal", 
+        "team2": " Colombia", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ck8m1cn23sukwsurgx5qakttk.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_pfvmhackqyhhk02majd2tb8l.png", 
+        "date": "2018-06-28", 
+        "stadium": "Kaliningrad Stadium", 
+        "team1": "England", 
+        "team2": " Belgium", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8856r86rattc8kxn6a0l9tb2t.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ctp7ovvf34m7fzshua9ogbr6i.png", 
+        "date": "2018-06-28", 
+        "stadium": "Mordovia Arena", 
+        "team1": "Panama", 
+        "team2": " Tunisia", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-06-29": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-06-29", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "00:00:", 
+        "tournament": "UEFA Champions League"
+      }
+    ], 
+    "2018-06-30": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-06-30", 
+        "stadium": "Kazan' Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-06-30", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-01": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-01", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-01", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-02": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-02", 
+        "stadium": "Samara Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-02", 
+        "stadium": "Rostov Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-03": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-03", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-03", 
+        "stadium": "Otkrytiye Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-04": [], 
+    "2018-07-05": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_do12s2hufffma2tgrsu6nl87g.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1cn7kuxtegfn6he1600he43qg.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "Bala Town", 
+        "team2": " Tre Fiori", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3kx9f4c3yrfark4dhyvlt2392.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ntan09svt52534rd1lqky16m.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "Folgore", 
+        "team2": " Engordany", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ekns2ebi23uvfv11fk9v0e157.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_53bt074sl65nizlw4d6sau2hz.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "Gzira United", 
+        "team2": " Sant Julia", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5hxhbq90kzf5ru0s2weylw1wu.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bdd46gvlzs61006ojuan7sd5g.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "KI", 
+        "team2": " Birkirkara", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4g3koeh06r6g4bkz64jvoz2nv.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7t2zzbhrwclwbwfp5eu3dcd91.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "Prishtina", 
+        "team2": " Europa", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_117gebg7w7g65l2gfzcy1i575.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2jn5ru0ghl1t3e6roud9xdxg.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "St Joseph's", 
+        "team2": " B36", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cqgkjqv5c22bzyg2wlvro5ydq.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4i1nrh7r0kt1vs2lvzh033u5p.png", 
+        "date": "2018-07-05", 
+        "stadium": "", 
+        "team1": "Trakai", 
+        "team2": " Cefn Druids", 
+        "time": "00:00:", 
+        "tournament": "UEFA Europa League"
+      }
+    ], 
+    "2018-07-06": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-06", 
+        "stadium": "Stadion Nizhny Novgorod", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-06", 
+        "stadium": "Kazan' Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-07": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-07", 
+        "stadium": "Samara Arena", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "14:00:", 
+        "tournament": "World Cup"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-07", 
+        "stadium": "Olimpiyskiy Stadion Fisht", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-08": [], 
+    "2018-07-09": [], 
+    "2018-07-10": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-10", 
+        "stadium": "Saint-Petersburg Stadium", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-11": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-11", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-12": []
+  }
 }

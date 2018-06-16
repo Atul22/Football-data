@@ -1,200 +1,14 @@
 {
   "fixtures": {
-    "2018-06-15": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3669sbeijslw88073qlw1cbcp.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9l06impjllgop0gte8fldb4zo.png", 
-        "date": "2018-06-15", 
-        "stadium": "Ekaterinburg Arena", 
-        "team1": "Egypt", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
-        "team2": " Uruguay", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "D"
-        ], 
-        "time": "17:30", 
-        "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_avggs3u2b5cu8i1dnzknhth52.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cubclbw5k5gdqdau95bnav0nn.png", 
-        "date": "2018-06-15", 
-        "stadium": "Saint-Petersburg Stadium", 
-        "team1": "Morocco", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Iran", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "20:30", 
-        "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8gxg8f7p9299jbrz30u8bsc7g.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eh7yt2x2wck51oixw8012ux5j.png", 
-        "date": "2018-06-15", 
-        "stadium": "Olimpiyskiy Stadion Fisht", 
-        "team1": "Portugal", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "team2": " Spain", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "D", 
-          "D"
-        ], 
-        "time": "23:30", 
-        "tournament": "World Cup"
-      }
-    ], 
-    "2018-06-16": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bl4fd8cxe6kjvjx8br82gkhnq.png", 
-        "date": "2018-06-16", 
-        "stadium": "Kazan' Arena", 
-        "team1": "France", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "team2": " Australia", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "15:30", 
-        "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ak48fkypnql8y4n69cvcq5ghc.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5gv6rrm6m6ixf8nff08vx7i9m.png", 
-        "date": "2018-06-16", 
-        "stadium": "Otkrytiye Arena", 
-        "team1": "Argentina", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "team2": " Iceland", 
-        "team2Form": [
-          "D", 
-          "L", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "18:30", 
-        "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_a9sendamrqqz1uv4jc89mfum8.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_akblgvrthxxgta4ou9lnslxgb.png", 
-        "date": "2018-06-16", 
-        "stadium": "Mordovia Arena", 
-        "team1": "Peru", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Denmark", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
-        "time": "21:30", 
-        "tournament": "World Cup"
-      }
-    ], 
     "2018-06-17": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4njsfszcgd9m765d6suktsz2a.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ao3zo8i0kn3grl47nol24gck0.png", 
-        "date": "2018-06-17", 
-        "stadium": "Kaliningrad Stadium", 
-        "team1": "Croatia", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
-        "team2": " Nigeria", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "00:30", 
-        "tournament": "World Cup"
-      }, 
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bfgqfm4qa3mal7fll74wd04mu.png", 
         "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ome9qbio8c3r9lmhx2hg6kif.png", 
         "date": "2018-06-17", 
         "stadium": "Samara Arena", 
         "team1": "Costa Rica", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
         "team2": " Serbia", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -203,22 +17,8 @@
         "date": "2018-06-17", 
         "stadium": "Stadion Luzhniki", 
         "team1": "Germany", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "L", 
-          "D", 
-          "D"
-        ], 
         "team2": " Mexico", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -227,22 +27,8 @@
         "date": "2018-06-17", 
         "stadium": "Rostov Arena", 
         "team1": "Brazil", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
         "team2": " Switzerland", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -253,22 +39,8 @@
         "date": "2018-06-18", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "Sweden", 
-        "team1Form": [
-          "D", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
         "team2": " Korea Republic", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -277,22 +49,8 @@
         "date": "2018-06-18", 
         "stadium": "Olimpiyskiy Stadion Fisht", 
         "team1": "Belgium", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
         "team2": " Panama", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -301,22 +59,8 @@
         "date": "2018-06-18", 
         "stadium": "Volgograd Arena", 
         "team1": "Tunisia", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "D", 
-          "W", 
-          "W"
-        ], 
         "team2": " England", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -327,22 +71,8 @@
         "date": "2018-06-19", 
         "stadium": "Mordovia Arena", 
         "team1": "Colombia", 
-        "team1Form": [
-          "D", 
-          "D", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " Japan", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "L", 
-          "L", 
-          "D"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -351,22 +81,8 @@
         "date": "2018-06-19", 
         "stadium": "Otkrytiye Arena", 
         "team1": "Poland", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
         "team2": " Senegal", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -375,22 +91,8 @@
         "date": "2018-06-19", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "Russia", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "L"
-        ], 
         "team2": " Egypt", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -401,22 +103,8 @@
         "date": "2018-06-20", 
         "stadium": "Stadion Luzhniki", 
         "team1": "Portugal", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "W"
-        ], 
         "team2": " Morocco", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -425,22 +113,8 @@
         "date": "2018-06-20", 
         "stadium": "Rostov Arena", 
         "team1": "Uruguay", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "D"
-        ], 
         "team2": " Saudi Arabia", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -449,22 +123,8 @@
         "date": "2018-06-20", 
         "stadium": "Kazan' Arena", 
         "team1": "Iran", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " Spain", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "D", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -475,22 +135,8 @@
         "date": "2018-06-21", 
         "stadium": "Samara Arena", 
         "team1": "Denmark", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
         "team2": " Australia", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -499,22 +145,8 @@
         "date": "2018-06-21", 
         "stadium": "Ekaterinburg Arena", 
         "team1": "France", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " Peru", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -523,22 +155,8 @@
         "date": "2018-06-21", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "Argentina", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
         "team2": " Croatia", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -549,22 +167,8 @@
         "date": "2018-06-22", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "Brazil", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
         "team2": " Costa Rica", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -573,22 +177,8 @@
         "date": "2018-06-22", 
         "stadium": "Volgograd Arena", 
         "team1": "Nigeria", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "D", 
-          "L", 
-          "W"
-        ], 
         "team2": " Iceland", 
-        "team2Form": [
-          "D", 
-          "L", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -597,22 +187,8 @@
         "date": "2018-06-22", 
         "stadium": "Kaliningrad Stadium", 
         "team1": "Serbia", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
         "team2": " Switzerland", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -623,22 +199,8 @@
         "date": "2018-06-23", 
         "stadium": "Otkrytiye Arena", 
         "team1": "Belgium", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
         "team2": " Tunisia", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -647,22 +209,8 @@
         "date": "2018-06-23", 
         "stadium": "Rostov Arena", 
         "team1": "Korea Republic", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
         "team2": " Mexico", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -671,22 +219,8 @@
         "date": "2018-06-23", 
         "stadium": "Olimpiyskiy Stadion Fisht", 
         "team1": "Germany", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "L", 
-          "D", 
-          "D"
-        ], 
         "team2": " Sweden", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -697,22 +231,8 @@
         "date": "2018-06-24", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "England", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "D"
-        ], 
         "team2": " Panama", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "time": "17:30", 
+        "time": "12:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -721,22 +241,8 @@
         "date": "2018-06-24", 
         "stadium": "Ekaterinburg Arena", 
         "team1": "Japan", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "L", 
-          "L", 
-          "D"
-        ], 
         "team2": " Senegal", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -745,22 +251,8 @@
         "date": "2018-06-24", 
         "stadium": "Kazan' Arena", 
         "team1": "Poland", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
         "team2": " Colombia", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -771,22 +263,8 @@
         "date": "2018-06-25", 
         "stadium": "Volgograd Arena", 
         "team1": "Saudi Arabia", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L", 
-          "W"
-        ], 
         "team2": " Egypt", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -795,22 +273,8 @@
         "date": "2018-06-25", 
         "stadium": "Samara Arena", 
         "team1": "Uruguay", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "D"
-        ], 
         "team2": " Russia", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "L"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -819,22 +283,8 @@
         "date": "2018-06-25", 
         "stadium": "Mordovia Arena", 
         "team1": "Iran", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " Portugal", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -843,22 +293,8 @@
         "date": "2018-06-25", 
         "stadium": "Kaliningrad Stadium", 
         "team1": "Spain", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "D", 
-          "D"
-        ], 
         "team2": " Morocco", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -869,22 +305,8 @@
         "date": "2018-06-26", 
         "stadium": "Olimpiyskiy Stadion Fisht", 
         "team1": "Australia", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
         "team2": " Peru", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -893,22 +315,8 @@
         "date": "2018-06-26", 
         "stadium": "Stadion Luzhniki", 
         "team1": "Denmark", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
         "team2": " France", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -917,22 +325,8 @@
         "date": "2018-06-26", 
         "stadium": "Rostov Arena", 
         "team1": "Iceland", 
-        "team1Form": [
-          "D", 
-          "L", 
-          "L", 
-          "L", 
-          "W"
-        ], 
         "team2": " Croatia", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -941,22 +335,8 @@
         "date": "2018-06-26", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "Nigeria", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "D", 
-          "L", 
-          "W"
-        ], 
         "team2": " Argentina", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -965,22 +345,18 @@
         "date": "2018-06-26", 
         "stadium": "Victoria Stadium", 
         "team1": "FC Santa Coloma", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "L"
-        ], 
         "team2": " Drita", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "time": "20:30", 
+        "time": "15:00:", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
+        "date": "2018-06-26", 
+        "stadium": "Victoria Stadium", 
+        "team1": "La Fiorita", 
+        "team2": " Lincoln Red Imps", 
+        "time": "19:00:", 
         "tournament": "UEFA Champions League"
       }, 
       {
@@ -989,22 +365,8 @@
         "date": "2018-06-26", 
         "stadium": "Estadi Comunal d'Andorra la Vella", 
         "team1": "Sant Julia", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "L", 
-          "L", 
-          "W"
-        ], 
         "team2": " Gzira United", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "UEFA Europa League"
       }
     ], 
@@ -1015,22 +377,8 @@
         "date": "2018-06-27", 
         "stadium": "Kazan' Arena", 
         "team1": "Korea Republic", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
         "team2": " Germany", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "L", 
-          "D", 
-          "D"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1039,22 +387,8 @@
         "date": "2018-06-27", 
         "stadium": "Ekaterinburg Arena", 
         "team1": "Mexico", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
         "team2": " Sweden", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1063,22 +397,8 @@
         "date": "2018-06-27", 
         "stadium": "Otkrytiye Arena", 
         "team1": "Serbia", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
         "team2": " Brazil", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1087,47 +407,9 @@
         "date": "2018-06-27", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "Switzerland", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
         "team2": " Costa Rica", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
-        "date": "2018-06-27", 
-        "stadium": "Victoria Stadium", 
-        "team1": "La Fiorita", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Lincoln Red Imps", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "time": "00:30", 
-        "tournament": "UEFA Champions League"
       }
     ], 
     "2018-06-28": [
@@ -1137,22 +419,8 @@
         "date": "2018-06-28", 
         "stadium": "Volgograd Arena", 
         "team1": "Japan", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "L", 
-          "L", 
-          "D"
-        ], 
         "team2": " Poland", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1161,22 +429,8 @@
         "date": "2018-06-28", 
         "stadium": "Samara Arena", 
         "team1": "Senegal", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
         "team2": " Colombia", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1185,22 +439,8 @@
         "date": "2018-06-28", 
         "stadium": "Kaliningrad Stadium", 
         "team1": "England", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "D"
-        ], 
         "team2": " Belgium", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1209,22 +449,8 @@
         "date": "2018-06-28", 
         "stadium": "Mordovia Arena", 
         "team1": "Panama", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
         "team2": " Tunisia", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1233,22 +459,8 @@
         "date": "2018-06-28", 
         "stadium": "Victoria Stadium", 
         "team1": "Europa", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " Prishtina", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "21:30", 
+        "time": "16:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1257,22 +469,8 @@
         "date": "2018-06-28", 
         "stadium": "MFA Centenary Stadium", 
         "team1": "Birkirkara", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
         "team2": " KI", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "D", 
-          "L"
-        ], 
-        "time": "22:30", 
+        "time": "17:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1281,22 +479,8 @@
         "date": "2018-06-28", 
         "stadium": "Gundadalur", 
         "team1": "B36", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
         "team2": " St Joseph's", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1305,22 +489,8 @@
         "date": "2018-06-28", 
         "stadium": "Park Hall Stadium", 
         "team1": "Cefn Druids", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
         "team2": " Trakai", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1329,49 +499,31 @@
         "date": "2018-06-28", 
         "stadium": "Estadi Comunal d'Andorra la Vella", 
         "team1": "Engordany", 
-        "team1Form": [
-          "D", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
         "team2": " Folgore", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "time": "23:30", 
+        "time": "18:00:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1cn7kuxtegfn6he1600he43qg.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_do12s2hufffma2tgrsu6nl87g.png", 
+        "date": "2018-06-28", 
+        "stadium": "Stadio Tullo Morgagni", 
+        "team1": "Tre Fiori", 
+        "team2": " Bala Town", 
+        "time": "18:45:", 
         "tournament": "UEFA Europa League"
       }
     ], 
     "2018-06-29": [
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1cn7kuxtegfn6he1600he43qg.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_do12s2hufffma2tgrsu6nl87g.png", 
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-06-29", 
-        "stadium": "Stadio Tullo Morgagni", 
-        "team1": "Tre Fiori", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "team2": " Bala Town", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L", 
-          "L"
-        ], 
-        "time": "00:15", 
-        "tournament": "UEFA Europa League"
+        "stadium": "Victoria Stadium", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "18:30:", 
+        "tournament": "UEFA Champions League"
       }
     ], 
     "2018-06-30": [
@@ -1381,10 +533,8 @@
         "date": "2018-06-30", 
         "stadium": "Kazan' Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1393,23 +543,9 @@
         "date": "2018-06-30", 
         "stadium": "Olimpiyskiy Stadion Fisht", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-06-30", 
-        "stadium": "Victoria Stadium", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "00:00", 
-        "tournament": "UEFA Champions League"
       }
     ], 
     "2018-07-01": [
@@ -1419,10 +555,8 @@
         "date": "2018-07-01", 
         "stadium": "Stadion Luzhniki", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1431,10 +565,8 @@
         "date": "2018-07-01", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1445,10 +577,8 @@
         "date": "2018-07-02", 
         "stadium": "Samara Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1457,10 +587,8 @@
         "date": "2018-07-02", 
         "stadium": "Rostov Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1471,10 +599,8 @@
         "date": "2018-07-03", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1483,10 +609,8 @@
         "date": "2018-07-03", 
         "stadium": "Otkrytiye Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1498,22 +622,8 @@
         "date": "2018-07-05", 
         "stadium": "Gundadalur", 
         "team1": "KI", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "D", 
-          "L"
-        ], 
         "team2": " Birkirkara", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "time": "05:30", 
+        "time": "00:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1522,22 +632,8 @@
         "date": "2018-07-05", 
         "stadium": "Stadiumi Olimpik Adem Jashari", 
         "team1": "Prishtina", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
         "team2": " Europa", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "05:30", 
+        "time": "00:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1546,22 +642,8 @@
         "date": "2018-07-05", 
         "stadium": "Victoria Stadium", 
         "team1": "St Joseph's", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
         "team2": " B36", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "time": "05:30", 
+        "time": "00:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1570,22 +652,8 @@
         "date": "2018-07-05", 
         "stadium": "Alytaus m. centrinis stadionas", 
         "team1": "Trakai", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
         "team2": " Cefn Druids", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
-        "time": "05:30", 
+        "time": "00:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1594,22 +662,8 @@
         "date": "2018-07-05", 
         "stadium": "MFA Centenary Stadium", 
         "team1": "Gzira United", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
         "team2": " Sant Julia", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "22:30", 
+        "time": "17:00:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1618,22 +672,18 @@
         "date": "2018-07-05", 
         "stadium": "Corbett Sports Stadium", 
         "team1": "Bala Town", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L", 
-          "L"
-        ], 
         "team2": " Tre Fiori", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
-        "time": "23:00", 
+        "time": "17:30:", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3kx9f4c3yrfark4dhyvlt2392.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ntan09svt52534rd1lqky16m.png", 
+        "date": "2018-07-05", 
+        "stadium": "Stadio Tullo Morgagni", 
+        "team1": "Folgore", 
+        "team2": " Engordany", 
+        "time": "18:45:", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -1642,22 +692,8 @@
         "date": "2018-07-05", 
         "stadium": "KLFA Stadium", 
         "team1": "Malaysia", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "L", 
-          "L"
-        ], 
         "team2": " Fiji", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "D", 
-          "D"
-        ], 
-        "time": "18:15", 
+        "time": "12:45:", 
         "tournament": "Friendlies"
       }
     ], 
@@ -1668,10 +704,8 @@
         "date": "2018-07-06", 
         "stadium": "Stadion Nizhny Novgorod", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1680,10 +714,8 @@
         "date": "2018-07-06", 
         "stadium": "Kazan' Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1694,10 +726,8 @@
         "date": "2018-07-07", 
         "stadium": "Samara Arena", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }, 
       {
@@ -1706,10 +736,8 @@
         "date": "2018-07-07", 
         "stadium": "Olimpiyskiy Stadion Fisht", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1722,10 +750,8 @@
         "date": "2018-07-10", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1736,10 +762,8 @@
         "date": "2018-07-11", 
         "stadium": "Stadion Luzhniki", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "23:30", 
+        "time": "18:00:", 
         "tournament": "World Cup"
       }
     ], 
@@ -1752,12 +776,23 @@
         "date": "2018-07-14", 
         "stadium": "Saint-Petersburg Stadium", 
         "team1": "TBC", 
-        "team1Form": [], 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "19:30", 
+        "time": "14:00:", 
         "tournament": "World Cup"
       }
-    ]
+    ], 
+    "2018-07-15": [
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-15", 
+        "stadium": "Stadion Luzhniki", 
+        "team1": "TBC", 
+        "team2": " TBC", 
+        "time": "15:00:", 
+        "tournament": "World Cup"
+      }
+    ], 
+    "2018-07-16": []
   }
 }

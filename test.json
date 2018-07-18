@@ -1,450 +1,5 @@
 {
   "fixtures": {
-    "2018-07-15": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4njsfszcgd9m765d6suktsz2a.png", 
-        "date": "2018-07-15", 
-        "stadium": "Stadion Luzhniki", 
-        "team1": "France", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "team2": " Croatia", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "time": "20:30", 
-        "tournament": "World Cup"
-      }
-    ], 
-    "2018-07-16": [], 
-    "2018-07-17": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_303582z192rnbr2x28o2t7u38.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_du6s5ma69psb2yrcg7o83jneb.png", 
-        "date": "2018-07-17", 
-        "stadium": "Telia 5G -areena", 
-        "team1": "HJK", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "D", 
-          "L"
-        ], 
-        "team2": " Vikingur", 
-        "team2Form": [
-          "L"
-        ], 
-        "time": "21:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cvdi6jj9pdy3uee5218wd21zf.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4v0ldlgm28lyklmaena4tkg7n.png", 
-        "date": "2018-07-17", 
-        "stadium": "MFA Centenary Stadium", 
-        "team1": "Valletta", 
-        "team1Form": [
-          "D"
-        ], 
-        "team2": " Kukesi", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "L", 
-          "D", 
-          "W"
-        ], 
-        "time": "21:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eu0or974evp0gojv63d3imktn.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2u2qoroat2qxz5tupc3ide2ou.png", 
-        "date": "2018-07-17", 
-        "stadium": "Neo GSP", 
-        "team1": "APOEL", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "team2": " Sudu", 
-        "team2Form": [
-          "W", 
-          "L"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9ppjmek1r3tb9yddebneaxj7i.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1rfuyt1v2hq9gp7xi55x56fi2.png", 
-        "date": "2018-07-17", 
-        "stadium": "Yaakov Turner Toto Stadium", 
-        "team1": "Hapoel Be'er She", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
-        "team2": "a", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "D", 
-          "W", 
-          "L"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93ohqui2qgqm8408viwmm1ken.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41h9qlpbu053buypjhxtbuhxs.png", 
-        "date": "2018-07-17", 
-        "stadium": "Swedbank Stadion", 
-        "team1": "Malmo FF", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "team2": " Drita", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_85l2ewv17mqmw3otdletjc36.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3wd9j6ytmipbqczenvqqmtikn.png", 
-        "date": "2018-07-17", 
-        "stadium": "Park Hall Stadium", 
-        "team1": "The New Saints", 
-        "team1Form": [
-          "L", 
-          "W"
-        ], 
-        "team2": " Shkendija", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "D", 
-          "L"
-        ], 
-        "time": "23:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_aebm5g2ss8l4r09xu95hpwtwo.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4tp84mwagxlkpla801f50njpb.png", 
-        "date": "2018-07-17", 
-        "stadium": "Puskas Akademia Pancho Arena", 
-        "team1": "Vidi", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "D", 
-          "L"
-        ], 
-        "team2": " F91 Dudelange", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W"
-        ], 
-        "time": "23:45", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c3yrcw3g5bj4rlmcxw9i8tale.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9kxht4usspzkeyosl567vjrs2.png", 
-        "date": "2018-07-17", 
-        "stadium": "Vivacom Arena - Georgi Asparuhov", 
-        "team1": "Le", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
-        "team2": "ski Sofia", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "D"
-        ], 
-        "time": "21:15", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_87bp4w0bbtbkkz66c26m8nuzp.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cnnku8uihko7u4th0fms4pvg6.png", 
-        "date": "2018-07-17", 
-        "stadium": "Telekom Arena", 
-        "team1": "Shkupi", 
-        "team1Form": [
-          "L"
-        ], 
-        "team2": " Rangers", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "D", 
-          "W"
-        ], 
-        "time": "21:25", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dju61qmb5d0k8m7pmopi772g3.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_db6g6xcwyh9vtf1zr7yylpxgl.png", 
-        "date": "2018-07-17", 
-        "stadium": "Bozsik Stadion", 
-        "team1": "Hon", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "team2": "ed", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "L"
-        ], 
-        "time": "21:30", 
-        "tournament": "UEFA Europa League"
-      }
-    ], 
-    "2018-07-18": [
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_81lpho34qr3dad0xzalq0abja.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_esxxc4o93bi6ih24bdto21dg9.png", 
-        "date": "2018-07-18", 
-        "stadium": "Stadion Rajko Mitic", 
-        "team1": "Cr", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "team2": "ena Z", 
-        "team2Form": [
-          "D", 
-          "L"
-        ], 
-        "time": "00:00", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6v4erawbrpebt61sstbb9nc8o.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6uhzci0mwrzly1e4trka6k4ea.png", 
-        "date": "2018-07-18", 
-        "stadium": "Seaview", 
-        "team1": "Crusaders", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "L", 
-          "L"
-        ], 
-        "team2": " Ludogorets", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "time": "00:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d7udukc1t631drge83p7ucqws.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_vgupememz87beb89669u7si0.png", 
-        "date": "2018-07-18", 
-        "stadium": "Stadion Miejski Legii Warszawa im. Marszaka Jozefa Pisudskiego", 
-        "team1": "Legia Warszawa", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Cork City", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "00:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dz0fc3304a30bzm9lht0bhpqt.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_75ajd08kvi4wwfua0u1a1qa1q.png", 
-        "date": "2018-07-18", 
-        "stadium": "Tofiq Bhramov adna Respublika stadionu", 
-        "team1": "Qarabag", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
-        "team2": " Olimpija", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dcx559ojp4lgxwc9z9xxbzgre.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2uml5k81v2tv5i7noj5mozguj.png", 
-        "date": "2018-07-18", 
-        "stadium": "Bolshaya Sportivnaya Arena", 
-        "team1": "Sheriff", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
-        "team2": " Torpedo Kutaisi", 
-        "team2Form": [
-          "W"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_39r69xdnw8usnndtetv3un9z3.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_e2eyddqxo12gs0dhbsb7l5pua.png", 
-        "date": "2018-07-18", 
-        "stadium": "Stadion Bijeli Brijeg", 
-        "team1": "Zrinjski", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Spartak Trna", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "L", 
-          "W", 
-          "D"
-        ], 
-        "time": "22:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c7jgkxx1czv5etn7snf1r6p2m.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_khmdmbol7850k3i07yusgpn.png", 
-        "date": "2018-07-18", 
-        "stadium": "Lerkendal Stadion", 
-        "team1": "Rosenborg", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "W", 
-          "L"
-        ], 
-        "team2": " Valur", 
-        "team2Form": [
-          "W"
-        ], 
-        "time": "23:15", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7z96mlqdlobsxna5du1chzdnr.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8hluxv5afo5yejrtl36naq9uv.png", 
-        "date": "2018-07-18", 
-        "stadium": "Stadion Kraj Bistrice", 
-        "team1": "Sutjeska", 
-        "team1Form": [
-          "L"
-        ], 
-        "team2": " Astana", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "L"
-        ], 
-        "time": "23:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_doer7kikrtjedg8uuwa8rrrn5.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ehv0ero09bxrvwdekf7ebtno.png", 
-        "date": "2018-07-18", 
-        "stadium": "Stadion Grbavica", 
-        "team1": "Zeljeznicar", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
-        "team2": " Trans", 
-        "team2Form": [
-          "L", 
-          "W"
-        ], 
-        "time": "21:30", 
-        "tournament": "UEFA Europa League"
-      }
-    ], 
     "2018-07-19": [
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dvnjvad3p09dugr79gktlrtll.png", 
@@ -452,20 +7,9 @@
         "date": "2018-07-19", 
         "stadium": "Celtic Park", 
         "team1": "Celtic", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Alashkert", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Champions League"
       }, 
@@ -475,15 +19,9 @@
         "date": "2018-07-19", 
         "stadium": "Ortalq Stadion", 
         "team1": "Kairat", 
-        "team1Form": [
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Engordany", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "18:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -493,14 +31,9 @@
         "date": "2018-07-19", 
         "stadium": "Ortalq Stadion", 
         "team1": "Tobol", 
-        "team1Form": [
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Samtredia", 
-        "team2Form": [
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "18:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -510,21 +43,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadyen Dynama", 
         "team1": "Dinamo Minsk", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Derry City", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -534,21 +55,9 @@
         "date": "2018-07-19", 
         "stadium": "Vazgen Sargsyan anvan Hanrapetakan Marzadasht", 
         "team1": "Gandzasar", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "L", 
-          "D", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Lech Poznan", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -558,17 +67,9 @@
         "date": "2018-07-19", 
         "stadium": "Ortalq Stadion", 
         "team1": "Irtysh", 
-        "team1Form": [
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Trakai", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -578,15 +79,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadiumi Laci", 
         "team1": "Laci", 
-        "team1Form": [
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Anorthosis", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -596,17 +91,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadionul Central", 
         "team1": "Viitorul", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Racing", 
-        "team2Form": [
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -616,19 +103,9 @@
         "date": "2018-07-19", 
         "stadium": "MFA Centenary Stadium", 
         "team1": "Gzira United", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Radnicki Nis", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "21:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -638,21 +115,9 @@
         "date": "2018-07-19", 
         "stadium": "Aker Stadion", 
         "team1": "Molde", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Glena", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "21:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -662,16 +127,9 @@
         "date": "2018-07-19", 
         "stadium": "Kadrioru staadion", 
         "team1": "Nomme Kalju", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Stjarnan", 
-        "team2Form": [
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "21:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -681,17 +139,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadion Vasil Levski", 
         "team1": "Sla", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": "ia Sofia", 
-        "team2Form": [
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "21:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -701,17 +151,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadions Skonto", 
         "team1": "Riga", 
-        "team1Form": [
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " CSKA Sofia", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -721,17 +163,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadion Pasienky", 
         "team1": "Slo", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": "an Bratisla", 
-        "team2Form": [
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "22:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -741,21 +175,9 @@
         "date": "2018-07-19", 
         "stadium": "Friends Arena", 
         "team1": "AIK", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Shamrock Ro", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -765,19 +187,9 @@
         "date": "2018-07-19", 
         "stadium": "Neo GSP", 
         "team1": "Apollon", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Stumbras", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -787,17 +199,9 @@
         "date": "2018-07-19", 
         "stadium": "Boris Paichadze Dinamo Arena", 
         "team1": "Dinamo Tbilisi", 
-        "team1Form": [
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " DAC", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -807,17 +211,9 @@
         "date": "2018-07-19", 
         "stadium": "Bravida Arena", 
         "team1": "Hacken", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Liepaja", 
-        "team2Form": [
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -827,14 +223,9 @@
         "date": "2018-07-19", 
         "stadium": "Dalga Arena", 
         "team1": "Kesl", 
-        "team1Form": [
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Balzan", 
-        "team2Form": [
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -844,21 +235,9 @@
         "date": "2018-07-19", 
         "stadium": "Winner Stadium", 
         "team1": "Maccabi Tel A", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": "i", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "L", 
-          "D", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -868,17 +247,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadiumi Olimpik Adem Jashari", 
         "team1": "Prishtina", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Fola Esch", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -888,18 +259,9 @@
         "date": "2018-07-19", 
         "stadium": "Sarpsborg Stadion", 
         "team1": "Sarpsborg 08", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " IBV", 
-        "team2Form": [
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -909,18 +271,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadyen Budaunik (Stroitel')", 
         "team1": "Shakhtyor", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Connah's Quay", 
-        "team2Form": [
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -930,18 +283,9 @@
         "date": "2018-07-19", 
         "stadium": "Telekom Arena", 
         "team1": "Vardar", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "D", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Pyunik", 
-        "team2Form": [
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -951,17 +295,9 @@
         "date": "2018-07-19", 
         "stadium": "Stadionul Zimbru", 
         "team1": "Zaria", 
-        "team1Form": [
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Gornik Zabrze", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -971,16 +307,9 @@
         "date": "2018-07-19", 
         "stadium": "Vilniaus LFF stadionas", 
         "team1": "Zalgiris", 
-        "team1Form": [
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " KI", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "22:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -990,19 +319,9 @@
         "date": "2018-07-19", 
         "stadium": "Right to Dream Park", 
         "team1": "Nordsjlland", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Clifton", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "23:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1012,16 +331,9 @@
         "date": "2018-07-19", 
         "stadium": "Stade Parc des Sports", 
         "team1": "Progres Niederkorn", 
-        "team1Form": [
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Qbl", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "23:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1031,16 +343,9 @@
         "date": "2018-07-19", 
         "stadium": "Teddi Malcha Stadium", 
         "team1": "Beitar Jerusalem", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Chikhura", 
-        "team2Form": [
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1050,21 +355,9 @@
         "date": "2018-07-19", 
         "stadium": "Telia Parken", 
         "team1": "Kbenha", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": "n", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "L", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1074,18 +367,9 @@
         "date": "2018-07-19", 
         "stadium": "Elbasan Arena", 
         "team1": "Luftetari Gjirokaster", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Ventspils", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1095,18 +379,9 @@
         "date": "2018-07-19", 
         "stadium": "Ljudski vrt", 
         "team1": "Maribor", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Partizani Tirana", 
-        "team2Form": [
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "23:45", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1116,20 +391,9 @@
         "date": "2018-07-19", 
         "stadium": "Olimpijski Stadion Asim Ferhatovic Hase", 
         "team1": "Saraje", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": "o", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:45", 
         "tournament": "UEFA Europa League"
       }
@@ -1141,17 +405,9 @@
         "date": "2018-07-20", 
         "stadium": "Stadion Pod Goricom", 
         "team1": "OFK Titograd", 
-        "team1Form": [
-          "D", 
-          "D", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " B36", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1161,18 +417,9 @@
         "date": "2018-07-20", 
         "stadium": "Stadion Partizana", 
         "team1": "Partizan", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Rudar", 
-        "team2Form": [
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1182,20 +429,9 @@
         "date": "2018-07-20", 
         "stadium": "Futbalovy stadion Spartak Myjava", 
         "team1": "Trencin", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Buducnost", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "00:00", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1205,19 +441,9 @@
         "date": "2018-07-20", 
         "stadium": "The Showgrounds", 
         "team1": "Coleraine", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Spartak Subotica", 
-        "team2Form": [
-          "D", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1227,20 +453,9 @@
         "date": "2018-07-20", 
         "stadium": "Oriel Park", 
         "team1": "Dundalk", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " FCI Le", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1250,17 +465,9 @@
         "date": "2018-07-20", 
         "stadium": "Svangaskar", 
         "team1": "NSI", 
-        "team1Form": [
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Hibernian", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1270,17 +477,9 @@
         "date": "2018-07-20", 
         "stadium": "Stadion Gradski vrt", 
         "team1": "Osijek", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Petrocub", 
-        "team2Form": [
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1290,19 +489,9 @@
         "date": "2018-07-20", 
         "stadium": "Stadio Tullo Morgagni", 
         "team1": "Tre Fiori", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Rudar", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1312,21 +501,9 @@
         "date": "2018-07-20", 
         "stadium": "Sportni Park", 
         "team1": "Domzale", 
-        "team1Form": [
-          "D", 
-          "L", 
-          "D", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Siroki Brijeg", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1336,19 +513,9 @@
         "date": "2018-07-20", 
         "stadium": "Szusza Ferenc Stadion", 
         "team1": "Ujpest", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Neftci", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "00:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1358,15 +525,9 @@
         "date": "2018-07-20", 
         "stadium": "Kaplakrikavollur", 
         "team1": "FH", 
-        "team1Form": [
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Lahti", 
-        "team2Form": [
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:45", 
         "tournament": "UEFA Europa League"
       }
@@ -1378,21 +539,9 @@
         "date": "2018-07-21", 
         "stadium": "Soldier Field", 
         "team1": "Manchester City", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Borussia Dortmund", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "06:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1402,26 +551,27 @@
         "date": "2018-07-21", 
         "stadium": "Worthersee Stadion", 
         "team1": "Bayern Munchen", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " PSG", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "19:35", 
         "tournament": "International Champions Cup"
       }
     ], 
-    "2018-07-22": [], 
+    "2018-07-22": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6fcfpek2a9xlkutt3k2ey0a9w.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1qobfm6yqjmm62f1xht94agjh.png", 
+        "date": "2018-07-22", 
+        "stadium": "", 
+        "team1": "Liberia", 
+        "team1Form": "", 
+        "team2": " Sierra Leone", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "Friendlies"
+      }
+    ], 
     "2018-07-23": [
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c8h9bw1l82s06h77xxrelzhur.png", 
@@ -1429,35 +579,59 @@
         "date": "2018-07-23", 
         "stadium": "Bank of America Stadium", 
         "team1": "Li", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": "erpool", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "01:35", 
         "tournament": "International Champions Cup"
       }
     ], 
     "2018-07-24": [
       {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4v0ldlgm28lyklmaena4tkg7n.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-07-24", 
         "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
+        "team1": "Kukesi", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d7udukc1t631drge83p7ucqws.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-24", 
+        "stadium": "", 
+        "team1": "Legia Warszawa", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3wd9j6ytmipbqczenvqqmtikn.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-24", 
+        "stadium": "", 
+        "team1": "Shkendija", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_59as3grjvj19voay31j3yfgni.png", 
+        "date": "2018-07-24", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Midtjylland", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Champions League"
       }, 
@@ -1467,57 +641,21 @@
         "date": "2018-07-24", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dt1p3v926refyx025719o2pc2.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-24", 
-        "stadium": "", 
-        "team1": "BATE", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-24", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-24", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Champions League"
       }, 
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_j9rqsuwsz35jx5drlh5f629w.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93ohqui2qgqm8408viwmm1ken.png", 
         "date": "2018-07-24", 
         "stadium": "Stadionul Dr. Constantin Radulescu", 
         "team1": "CFR Cluj", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team1Form": "", 
+        "team2": " Malmo FF", 
+        "team2Form": "", 
         "time": "21:30", 
         "tournament": "UEFA Champions League"
       }, 
@@ -1527,21 +665,22 @@
         "date": "2018-07-24", 
         "stadium": "Stadio Toumbas", 
         "team1": "PAOK", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Basel", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:00", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7vyubxg6fnmwwyo2nnyhp6j5d.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9ppjmek1r3tb9yddebneaxj7i.png", 
+        "date": "2018-07-24", 
+        "stadium": "Stadion Maksimir", 
+        "team1": "Dinamo Zagreb", 
+        "team1Form": "", 
+        "team2": " Hapoel Be'er She", 
+        "team2Form": "", 
+        "time": "23:30", 
         "tournament": "UEFA Champions League"
       }
     ], 
@@ -1553,21 +692,9 @@
         "date": "2018-07-26", 
         "stadium": "Lincoln Financial Field", 
         "team1": "Ju", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": "entus", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "04:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1577,21 +704,9 @@
         "date": "2018-07-26", 
         "stadium": "Heinz Field", 
         "team1": "Borussia Dortmund", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "D", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Benfica", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "05:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1601,21 +716,9 @@
         "date": "2018-07-26", 
         "stadium": "MetLife Stadium", 
         "team1": "Manchester City", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Li", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "05:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1625,21 +728,9 @@
         "date": "2018-07-26", 
         "stadium": "San Diego County Credit Union Stadium", 
         "team1": "Roma", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Tottenham Hotspur", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "07:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1649,21 +740,9 @@
         "date": "2018-07-26", 
         "stadium": "Rose Bowl", 
         "team1": "Milan", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Manchester United", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "08:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -1673,21 +752,9 @@
         "date": "2018-07-26", 
         "stadium": "The National Stadium", 
         "team1": "Atletico Madrid", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Arsenal", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "17:05", 
         "tournament": "International Champions Cup"
       }, 
@@ -1697,45 +764,21 @@
         "date": "2018-07-26", 
         "stadium": "Amsterdam ArenA", 
         "team1": "Ajax", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Sturm Graz", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "00:00", 
         "tournament": "UEFA Champions League"
       }, 
       {
         "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_98dr7jscv8adc8zgi2u403oij.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6hsriqr3ybvyg94w2k19oal50.png", 
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Bordeaux", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ez9cvam9lp9jyhng3eh3znb4.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Besiktas", 
-        "team2Form": [], 
+        "team1Form": "", 
+        "team2": " Vitesse", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1745,117 +788,21 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
         "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4l5d2ebcjlj5rsxqfzx3wc2nh.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Admira", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bpk1d09f7zqtmcp7cis2c1b7i.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " FCSB", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3kfktv64h7kg7zryax1wktr5r.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " AZ", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6ouaoxrghzeqpzqk02xn3t4r9.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-07-26", 
         "stadium": "", 
-        "team1": "Hajduk Split", 
-        "team1Form": [], 
+        "team1": "TBC", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_boxkkgnpn38ywao4kzu7dx58h.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93xj9vmeln0marv6r1uti7but.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "LASK", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
-        "team2": " Lillestrm", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9gefq4dz9b2hl8rqrxwrlrzmp.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "RB Leipzig", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_10eyb18v5puw4ez03ocaug09m.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "Se", 
-        "team1Form": [], 
-        "team2": "illa", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_q4y48hs70h74p3waaxxjtdu5.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " AEK Larnaca", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -1865,305 +812,9 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " La Fiorita", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ct5bxskoczd1sizdp0sv6up7s.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "FC Santa Coloma", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ocdn3a6s75u0d0dy0rbou0xc.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Sparta Praha", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_azfxqr8km2gusov0ahqgq51f2.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4gex5os8jassavy6lopipbcz3.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "Dinamo Brest", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "L", 
-          "D", 
-          "D"
-        ], 
-        "team2": " Atromitos", 
-        "team2Form": [
-          "W", 
-          "W"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_czkf5t3ai00ghwbga03i5aqxw.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f1fysakxtgtjumwa24aimghxj.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "Djurgarden", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "team2": " Mariupol'", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_89xivtxk59uzvhdsd6miao6tm.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "Genk", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2173,33 +824,21 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " Atalanta", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dty3ktxspuo8ayudnf0egkvx5.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-26", 
-        "stadium": "", 
-        "team1": "St. Gallen", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
         "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6hsriqr3ybvyg94w2k19oal50.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_q4y48hs70h74p3waaxxjtdu5.png", 
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Vitesse", 
-        "team2Form": [], 
+        "team1Form": "", 
+        "team2": " AEK Larnaca", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2209,21 +848,33 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7cd60mgte8skipavum0o6ecyo.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cnnku8uihko7u4th0fms4pvg6.png", 
         "date": "2018-07-26", 
         "stadium": "", 
-        "team1": "Hapoel Haifa", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Rangers", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9kxht4usspzkeyosl567vjrs2.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Vaduz", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2233,33 +884,261 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8jw3s68b9lil5xcgjvbcmrgc2.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cgvbluoerzbzcr7aaxge3wkcv.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dju61qmb5d0k8m7pmopi772g3.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-07-26", 
         "stadium": "", 
-        "team1": "Jagiellonia Biaystok", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "team2": " Rio A", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team1": "Hon", 
+        "team1Form": "", 
+        "team2": "ed", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_98dr7jscv8adc8zgi2u403oij.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Bordeaux", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ez9cvam9lp9jyhng3eh3znb4.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Besiktas", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4l5d2ebcjlj5rsxqfzx3wc2nh.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Admira", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ocdn3a6s75u0d0dy0rbou0xc.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Sparta Praha", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_85l2ewv17mqmw3otdletjc36.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "The New Saints", 
+        "team1Form": "", 
+        "team2": " Lincoln Red Imps", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6v4erawbrpebt61sstbb9nc8o.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Crusaders", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_du6s5ma69psb2yrcg7o83jneb.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Vikingur", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cvdi6jj9pdy3uee5218wd21zf.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Valletta", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eu0or974evp0gojv63d3imktn.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1rfuyt1v2hq9gp7xi55x56fi2.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "APOEL", 
+        "team1Form": "", 
+        "team2": " Flora", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4tp84mwagxlkpla801f50njpb.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41h9qlpbu053buypjhxtbuhxs.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "F91 Dudelange", 
+        "team1Form": "", 
+        "team2": " Drita", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_esxxc4o93bi6ih24bdto21dg9.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "Spartaks Jurmala", 
+        "team1Form": "", 
+        "team2": " La Fiorita", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3kfktv64h7kg7zryax1wktr5r.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " AZ", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bpk1d09f7zqtmcp7cis2c1b7i.png", 
+        "date": "2018-07-26", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " FCSB", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2269,38 +1148,147 @@
         "date": "2018-07-26", 
         "stadium": "", 
         "team1": "Ufa", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
+        "team2Form": "", 
+        "time": "19:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_841zp0njrq63yv4fvw6lgf60q.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_64bxxwu2mv2qqlv0monbkj1om.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7cd60mgte8skipavum0o6ecyo.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Sammy Ofer Stadium", 
+        "team1": "Hapoel Haifa", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "21:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9gefq4dz9b2hl8rqrxwrlrzmp.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Red Bull Arena", 
+        "team1": "RB Leipzig", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "22:00", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_czkf5t3ai00ghwbga03i5aqxw.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f1fysakxtgtjumwa24aimghxj.png", 
+        "date": "2018-07-26", 
+        "stadium": "Stockholms Olympiastadion", 
+        "team1": "Djurgarden", 
+        "team1Form": "", 
+        "team2": " Mariupol'", 
+        "team2Form": "", 
+        "time": "22:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8jw3s68b9lil5xcgjvbcmrgc2.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cgvbluoerzbzcr7aaxge3wkcv.png", 
+        "date": "2018-07-26", 
+        "stadium": "Stadion Miejski", 
+        "team1": "Jagiellonia Biaystok", 
+        "team1Form": "", 
+        "team2": " Rio A", 
+        "team2Form": "", 
+        "time": "22:50", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_azfxqr8km2gusov0ahqgq51f2.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4gex5os8jassavy6lopipbcz3.png", 
         "date": "2018-07-26", 
         "stadium": "", 
-        "team1": "Aberdeen", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "team2": " Burnley", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "D", 
-          "D", 
-          "L"
-        ], 
+        "team1": "Dinamo Brest", 
+        "team1Form": "", 
+        "team2": " Atromitos", 
+        "team2Form": "", 
+        "time": "23:15", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_boxkkgnpn38ywao4kzu7dx58h.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93xj9vmeln0marv6r1uti7but.png", 
+        "date": "2018-07-26", 
+        "stadium": "Linzer Stadion", 
+        "team1": "LASK", 
+        "team1Form": "", 
+        "team2": " Lillestrm", 
+        "team2Form": "", 
+        "time": "23:15", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ct5bxskoczd1sizdp0sv6up7s.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Estadi Comunal d'Andorra la Vella", 
+        "team1": "FC Santa Coloma", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
         "time": "23:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_89xivtxk59uzvhdsd6miao6tm.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Luminus Arena", 
+        "team1": "Genk", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "23:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6ouaoxrghzeqpzqk02xn3t4r9.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Stadion Poljud", 
+        "team1": "Hajduk Split", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "23:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dty3ktxspuo8ayudnf0egkvx5.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-07-26", 
+        "stadium": "Kybunpark", 
+        "team1": "St. Gallen", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "23:45", 
         "tournament": "UEFA Europa League"
       }
     ], 
-    "2018-07-27": [], 
+    "2018-07-27": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_841zp0njrq63yv4fvw6lgf60q.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_64bxxwu2mv2qqlv0monbkj1om.png", 
+        "date": "2018-07-27", 
+        "stadium": "Pittodrie Stadium", 
+        "team1": "Aberdeen", 
+        "team1Form": "", 
+        "team2": " Burnley", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "UEFA Europa League"
+      }
+    ], 
     "2018-07-28": [
       {
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4dsgumo7d4zupm2ugsvm4zm4d.png", 
@@ -2308,21 +1296,9 @@
         "date": "2018-07-28", 
         "stadium": "The National Stadium", 
         "team1": "Arsenal", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " PSG", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "17:05", 
         "tournament": "International Champions Cup"
       }, 
@@ -2332,21 +1308,9 @@
         "date": "2018-07-28", 
         "stadium": "Red Bull Arena", 
         "team1": "Benfica", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Ju", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "22:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2356,21 +1320,9 @@
         "date": "2018-07-28", 
         "stadium": "Allianz Riviera", 
         "team1": "Chelsea", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Internazionale", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "23:35", 
         "tournament": "International Champions Cup"
       }
@@ -2382,21 +1334,9 @@
         "date": "2018-07-29", 
         "stadium": "Michigan Stadium", 
         "team1": "Manchester United", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Li", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "02:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2406,21 +1346,9 @@
         "date": "2018-07-29", 
         "stadium": "Hard Rock Stadium", 
         "team1": "Bayern Munchen", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "D", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Manchester City", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "04:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2430,21 +1358,9 @@
         "date": "2018-07-29", 
         "stadium": "Rose Bowl", 
         "team1": "Barcelona", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Tottenham Hotspur", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "08:35", 
         "tournament": "International Champions Cup"
       }
@@ -2456,21 +1372,9 @@
         "date": "2018-07-30", 
         "stadium": "The National Stadium", 
         "team1": "PSG", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Atletico Madrid", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "17:05", 
         "tournament": "International Champions Cup"
       }
@@ -2478,25 +1382,49 @@
     "2018-07-31": [
       {
         "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d7udukc1t631drge83p7ucqws.png", 
         "date": "2018-07-31", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team1Form": "", 
+        "team2": " Legia Warszawa", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Champions League"
       }, 
       {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93ohqui2qgqm8408viwmm1ken.png", 
         "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_j9rqsuwsz35jx5drlh5f629w.png", 
         "date": "2018-07-31", 
         "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
+        "team1": "Malmo FF", 
+        "team1Form": "", 
         "team2": " CFR Cluj", 
-        "team2Form": [], 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3wd9j6ytmipbqczenvqqmtikn.png", 
+        "date": "2018-07-31", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Shkendija", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Champions League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4v0ldlgm28lyklmaena4tkg7n.png", 
+        "date": "2018-07-31", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Kukesi", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Champions League"
       }, 
@@ -2506,46 +1434,22 @@
         "date": "2018-07-31", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Champions League"
       }, 
       {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dt1p3v926refyx025719o2pc2.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9ppjmek1r3tb9yddebneaxj7i.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7vyubxg6fnmwwyo2nnyhp6j5d.png", 
         "date": "2018-07-31", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " BATE", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-31", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Champions League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-07-31", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
+        "stadium": "Yaakov Turner Toto Stadium", 
+        "team1": "Hapoel Be'er She", 
+        "team1Form": "", 
+        "team2": "a", 
+        "team2Form": "", 
+        "time": "22:30", 
         "tournament": "UEFA Champions League"
       }
     ], 
@@ -2556,21 +1460,9 @@
         "date": "2018-08-01", 
         "stadium": "Hard Rock Stadium", 
         "team1": "Manchester United", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Real Madrid", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "05:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2580,21 +1472,9 @@
         "date": "2018-08-01", 
         "stadium": "U.S. Bank Stadium", 
         "team1": "Tottenham Hotspur", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Milan", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "06:05", 
         "tournament": "International Champions Cup"
       }, 
@@ -2604,21 +1484,9 @@
         "date": "2018-08-01", 
         "stadium": "AT&T Stadium", 
         "team1": "Barcelona", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Roma", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "07:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2628,20 +1496,9 @@
         "date": "2018-08-01", 
         "stadium": "St. Jakob-Park", 
         "team1": "Basel", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " PAOK", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "UEFA Champions League"
       }
@@ -2653,21 +1510,9 @@
         "date": "2018-08-02", 
         "stadium": "Aviva Stadium", 
         "team1": "Arsenal", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Chelsea", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2677,21 +1522,9 @@
         "date": "2018-08-02", 
         "stadium": "Estadio Do Algarve", 
         "team1": "Benfica", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Olympique Lyonnais", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "01:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -2701,21 +1534,9 @@
         "date": "2018-08-02", 
         "stadium": "Merkur Arena", 
         "team1": "Sturm Graz", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Ajax", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "00:00", 
         "tournament": "UEFA Champions League"
       }, 
@@ -2725,33 +1546,57 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3kfktv64h7kg7zryax1wktr5r.png", 
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "AZ", 
-        "team1Form": [], 
+        "team1": "TBC", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bpk1d09f7zqtmcp7cis2c1b7i.png", 
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "FCSB", 
-        "team1Form": [], 
+        "team1": "TBC", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2761,9 +1606,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " Hajduk Split", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2773,33 +1618,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " Se", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93xj9vmeln0marv6r1uti7but.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_boxkkgnpn38ywao4kzu7dx58h.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Lillestrm", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "D", 
-          "W", 
-          "L"
-        ], 
-        "team2": " LASK", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2809,33 +1630,21 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " RB Leipzig", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_q4y48hs70h74p3waaxxjtdu5.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6v4erawbrpebt61sstbb9nc8o.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "AEK Larnaca", 
-        "team1Form": [], 
+        "team1": "Crusaders", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2845,9 +1654,45 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41h9qlpbu053buypjhxtbuhxs.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4tp84mwagxlkpla801f50njpb.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "Drita", 
+        "team1Form": "", 
+        "team2": " F91 Dudelange", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1rfuyt1v2hq9gp7xi55x56fi2.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_eu0or974evp0gojv63d3imktn.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "Flora", 
+        "team1Form": "", 
+        "team2": " APOEL", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cnnku8uihko7u4th0fms4pvg6.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "Rangers", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2857,57 +1702,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8l7k4sc5qar1h6wcco71j0fsc.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "La Fiorita", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -2917,317 +1714,45 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " FC Santa Coloma", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9kxht4usspzkeyosl567vjrs2.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
+        "team1": "Vaduz", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cvdi6jj9pdy3uee5218wd21zf.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
+        "team1": "Valletta", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
       {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4l5d2ebcjlj5rsxqfzx3wc2nh.png", 
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_du6s5ma69psb2yrcg7o83jneb.png", 
         "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
         "date": "2018-08-02", 
         "stadium": "", 
-        "team1": "Admira", 
-        "team1Form": [], 
+        "team1": "Vikingur", 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4gex5os8jassavy6lopipbcz3.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_azfxqr8km2gusov0ahqgq51f2.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Atromitos", 
-        "team1Form": [
-          "W", 
-          "W"
-        ], 
-        "team2": " Dinamo Brest", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "L", 
-          "D", 
-          "D"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cgvbluoerzbzcr7aaxge3wkcv.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8jw3s68b9lil5xcgjvbcmrgc2.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Rio A", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "team2": "e", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "L", 
-          "L", 
-          "W"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ocdn3a6s75u0d0dy0rbou0xc.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Sparta Praha", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7cd60mgte8skipavum0o6ecyo.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Hapoel Haifa", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_64bxxwu2mv2qqlv0monbkj1om.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_841zp0njrq63yv4fvw6lgf60q.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Burnley", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "D", 
-          "D", 
-          "L"
-        ], 
-        "team2": " Aberdeen", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f1fysakxtgtjumwa24aimghxj.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_czkf5t3ai00ghwbga03i5aqxw.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Mariupol'", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W"
-        ], 
-        "team2": " Djurgarden", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_89xivtxk59uzvhdsd6miao6tm.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " Genk", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_e75syeuawg3ql8nwpi3vr2btz.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Atalanta", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_98dr7jscv8adc8zgi2u403oij.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Bordeaux", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dty3ktxspuo8ayudnf0egkvx5.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " St. Gallen", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6hsriqr3ybvyg94w2k19oal50.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "Vitesse", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
-        "tournament": "UEFA Europa League"
-      }, 
-      {
-        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
-        "date": "2018-08-02", 
-        "stadium": "", 
-        "team1": "TBC", 
-        "team1Form": [], 
-        "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -3237,9 +1762,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " Ufa", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -3249,9 +1774,21 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_e75syeuawg3ql8nwpi3vr2btz.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "Atalanta", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -3261,9 +1798,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -3273,9 +1810,9 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "UEFA Europa League"
       }, 
@@ -3285,10 +1822,154 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "TBC", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
+        "team2Form": "", 
         "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dju61qmb5d0k8m7pmopi772g3.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Hon", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_89xivtxk59uzvhdsd6miao6tm.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Genk", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7cd60mgte8skipavum0o6ecyo.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " Hapoel Haifa", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dty3ktxspuo8ayudnf0egkvx5.png", 
+        "date": "2018-08-02", 
+        "stadium": "", 
+        "team1": "TBC", 
+        "team1Form": "", 
+        "team2": " St. Gallen", 
+        "team2Form": "", 
+        "time": "05:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_q4y48hs70h74p3waaxxjtdu5.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "AEK Arena - George Karapatakis", 
+        "team1": "AEK Larnaca", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "21:00", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_93xj9vmeln0marv6r1uti7but.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_boxkkgnpn38ywao4kzu7dx58h.png", 
+        "date": "2018-08-02", 
+        "stadium": "Arasen Stadion", 
+        "team1": "Lillestrm", 
+        "team1Form": "", 
+        "team2": " LASK", 
+        "team2Form": "", 
+        "time": "22:00", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4l5d2ebcjlj5rsxqfzx3wc2nh.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "BSFZ-Arena", 
+        "team1": "Admira", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "22:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c6xkfm5pm0pd220olqc6x8hlj.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_85l2ewv17mqmw3otdletjc36.png", 
+        "date": "2018-08-02", 
+        "stadium": "Victoria Stadium", 
+        "team1": "Lincoln Red Imps", 
+        "team1Form": "", 
+        "team2": " The New Saints", 
+        "team2Form": "", 
+        "time": "22:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f1fysakxtgtjumwa24aimghxj.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_czkf5t3ai00ghwbga03i5aqxw.png", 
+        "date": "2018-08-02", 
+        "stadium": "Stadion Chornomorets", 
+        "team1": "Mariupol'", 
+        "team1Form": "", 
+        "team2": " Djurgarden", 
+        "team2Form": "", 
+        "time": "22:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5ocdn3a6s75u0d0dy0rbou0xc.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "Treninkove hriste Letna", 
+        "team1": "Sparta Praha", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "22:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4gex5os8jassavy6lopipbcz3.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_azfxqr8km2gusov0ahqgq51f2.png", 
+        "date": "2018-08-02", 
+        "stadium": "Stadio Peristeriou", 
+        "team1": "Atromitos", 
+        "team1Form": "", 
+        "team2": " Dinamo Brest", 
+        "team2Form": "", 
+        "time": "22:45", 
         "tournament": "UEFA Europa League"
       }, 
       {
@@ -3297,10 +1978,22 @@
         "date": "2018-08-02", 
         "stadium": "", 
         "team1": "Besiktas", 
-        "team1Form": [], 
+        "team1Form": "", 
         "team2": " TBC", 
-        "team2Form": [], 
-        "time": "05:30", 
+        "team2Form": "", 
+        "time": "23:30", 
+        "tournament": "UEFA Europa League"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6hsriqr3ybvyg94w2k19oal50.png", 
+        "crestUri2": "http://www.goal.com/rebuild-beta-assets/img/team-crest.png", 
+        "date": "2018-08-02", 
+        "stadium": "GelreDome", 
+        "team1": "Vitesse", 
+        "team1Form": "", 
+        "team2": " TBC", 
+        "team2Form": "", 
+        "time": "23:30", 
         "tournament": "UEFA Europa League"
       }
     ], 
@@ -3312,21 +2005,9 @@
         "date": "2018-08-04", 
         "stadium": "Stadio Comunale Via del Mare", 
         "team1": "Internazionale", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Olympique Lyonnais", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "23:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -3336,21 +2017,9 @@
         "date": "2018-08-04", 
         "stadium": "", 
         "team1": "Palestine", 
-        "team1Form": [
-          "L", 
-          "D", 
-          "L", 
-          "D", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Iraq", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "05:30", 
         "tournament": "Friendlies"
       }
@@ -3362,21 +2031,9 @@
         "date": "2018-08-05", 
         "stadium": "FedEx Field", 
         "team1": "Real Madrid", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Ju", 
-        "team2Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "03:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -3386,21 +2043,9 @@
         "date": "2018-08-05", 
         "stadium": "Levi's Stadium", 
         "team1": "Milan", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Barcelona", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "05:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -3408,18 +2053,12 @@
         "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ad06y2rz0lcrn6dsone4cl4g5.png", 
         "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6raiahlhb99i9rzr6sj4nm7qh.png", 
         "date": "2018-08-05", 
-        "stadium": "", 
+        "stadium": "San Pedro Municipal Stadium", 
         "team1": "Belize", 
-        "team1Form": [
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Barbados", 
-        "team2Form": [
-          "D", 
-          "D", 
-          "W"
-        ], 
-        "time": "07:30", 
+        "team2Form": "", 
+        "time": "06:30", 
         "tournament": "Friendlies"
       }
     ], 
@@ -3432,21 +2071,9 @@
         "date": "2018-08-08", 
         "stadium": "Stamford Bridge", 
         "team1": "Chelsea", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Olympique Lyonnais", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -3456,21 +2083,9 @@
         "date": "2018-08-08", 
         "stadium": "MetLife Stadium", 
         "team1": "Real Madrid", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Roma", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "05:35", 
         "tournament": "International Champions Cup"
       }
@@ -3484,21 +2099,9 @@
         "date": "2018-08-11", 
         "stadium": "Old Trafford", 
         "team1": "Manchester United", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "D", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Leicester City", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "L", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:30", 
         "tournament": "Premier League"
       }, 
@@ -3508,21 +2111,9 @@
         "date": "2018-08-11", 
         "stadium": "St. James' Park", 
         "team1": "Newcastle United", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Tottenham Hotspur", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "17:00", 
         "tournament": "Premier League"
       }, 
@@ -3532,21 +2123,9 @@
         "date": "2018-08-11", 
         "stadium": "Vitality Stadium", 
         "team1": "AFC Bournemouth", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Cardiff City", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "19:30", 
         "tournament": "Premier League"
       }, 
@@ -3556,21 +2135,9 @@
         "date": "2018-08-11", 
         "stadium": "Craven Cottage", 
         "team1": "Fulham", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Crystal Palace", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "19:30", 
         "tournament": "Premier League"
       }, 
@@ -3580,21 +2147,9 @@
         "date": "2018-08-11", 
         "stadium": "The John Smith's Stadium", 
         "team1": "Huddersfield Town", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "D", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Chelsea", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "19:30", 
         "tournament": "Premier League"
       }, 
@@ -3604,21 +2159,9 @@
         "date": "2018-08-11", 
         "stadium": "Vicarage Road Stadium", 
         "team1": "Watford", 
-        "team1Form": [
-          "L", 
-          "W", 
-          "L", 
-          "D", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Brighton & Ho", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "D", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "19:30", 
         "tournament": "Premier League"
       }, 
@@ -3628,21 +2171,9 @@
         "date": "2018-08-11", 
         "stadium": "Molineux Stadium", 
         "team1": "Wol", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": "erhampton Wanderers", 
-        "team2Form": [
-          "L", 
-          "D", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "22:00", 
         "tournament": "Premier League"
       }, 
@@ -3652,21 +2183,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade Velodrome", 
         "team1": "Olympique Marseille", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Toulouse", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "L", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "00:15", 
         "tournament": "Ligue 1"
       }, 
@@ -3676,21 +2195,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade de la Beaujoire - Louis Fonteneau", 
         "team1": "Nantes", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Monaco", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3700,21 +2207,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade Raymond-Kopa", 
         "team1": "Angers SCO", 
-        "team1Form": [
-          "L", 
-          "L", 
-          "W", 
-          "D", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Nimes", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "D", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3724,21 +2219,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade Pierre-Mauroy", 
         "team1": "Lille", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Rennes", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "W", 
-          "W", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3748,21 +2231,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade de la Mosson", 
         "team1": "Montpellier", 
-        "team1Form": [
-          "D", 
-          "D", 
-          "W", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Dijon", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3772,21 +2243,9 @@
         "date": "2018-08-11", 
         "stadium": "Allianz Riviera", 
         "team1": "Nice", 
-        "team1Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Reims", 
-        "team2Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3796,21 +2255,9 @@
         "date": "2018-08-11", 
         "stadium": "Stade Geoffroy-Guichard", 
         "team1": "Saint-Etienne", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "W", 
-          "L", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Guingamp", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "D", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "23:30", 
         "tournament": "Ligue 1"
       }
@@ -3822,21 +2269,9 @@
         "date": "2018-08-12", 
         "stadium": "Anfield", 
         "team1": "Li", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": "erpool", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "W", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "18:00", 
         "tournament": "Premier League"
       }, 
@@ -3846,21 +2281,9 @@
         "date": "2018-08-12", 
         "stadium": "St. Mary's Stadium", 
         "team1": "Southampton", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Burnley", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "D", 
-          "D", 
-          "L"
-        ], 
+        "team2Form": "", 
         "time": "18:00", 
         "tournament": "Premier League"
       }, 
@@ -3870,21 +2293,9 @@
         "date": "2018-08-12", 
         "stadium": "Emirates Stadium", 
         "team1": "Arsenal", 
-        "team1Form": [
-          "W", 
-          "W", 
-          "L", 
-          "W", 
-          "L"
-        ], 
+        "team1Form": "", 
         "team2": " Manchester City", 
-        "team2Form": [
-          "W", 
-          "W", 
-          "D", 
-          "W", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "Premier League"
       }, 
@@ -3894,21 +2305,9 @@
         "date": "2018-08-12", 
         "stadium": "Estadio Wanda Metropolitano", 
         "team1": "Atletico Madrid", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Internazionale", 
-        "team2Form": [
-          "W", 
-          "L", 
-          "W", 
-          "L", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "00:35", 
         "tournament": "International Champions Cup"
       }, 
@@ -3918,21 +2317,9 @@
         "date": "2018-08-12", 
         "stadium": "Groupama Stadium", 
         "team1": "Olympique Lyonnais", 
-        "team1Form": [
-          "D", 
-          "W", 
-          "L", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Amiens SC", 
-        "team2Form": [
-          "L", 
-          "W", 
-          "D", 
-          "D", 
-          "W"
-        ], 
+        "team2Form": "", 
         "time": "18:30", 
         "tournament": "Ligue 1"
       }, 
@@ -3942,21 +2329,9 @@
         "date": "2018-08-12", 
         "stadium": "Stade Matmut-Atlantique", 
         "team1": "Bordeaux", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "W", 
-          "W", 
-          "W"
-        ], 
+        "team1Form": "", 
         "team2": " Strasbourg", 
-        "team2Form": [
-          "L", 
-          "L", 
-          "W", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "20:30", 
         "tournament": "Ligue 1"
       }
@@ -3968,23 +2343,437 @@
         "date": "2018-08-13", 
         "stadium": "Parc des Princes", 
         "team1": "PSG", 
-        "team1Form": [
-          "W", 
-          "D", 
-          "L", 
-          "W", 
-          "D"
-        ], 
+        "team1Form": "", 
         "team2": " Caen", 
-        "team2Form": [
-          "D", 
-          "L", 
-          "L", 
-          "L", 
-          "D"
-        ], 
+        "team2Form": "", 
         "time": "00:30", 
         "tournament": "Ligue 1"
+      }
+    ], 
+    "2018-08-14": [], 
+    "2018-08-15": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1qtaiy11gswx327s0vkibf70n.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dww3g2acee5r6q4jhizzbike2.png", 
+        "date": "2018-08-15", 
+        "stadium": "The City Ground", 
+        "team1": "Nottingham Forest", 
+        "team1Form": "", 
+        "team2": " Bury", 
+        "team2Form": "", 
+        "time": "00:00", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f1ni8k09kpdcwmkasi69rl0bz.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9db4t34qy4owglhvvgwf5l22i.png", 
+        "date": "2018-08-15", 
+        "stadium": "Bloomfield Road", 
+        "team1": "Blackpool", 
+        "team1Form": "", 
+        "team2": " Barnsley", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_c5485h5qulh4l0k0py5b9xug1.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5g1fnexeromjl0lvnxp8hpnhi.png", 
+        "date": "2018-08-15", 
+        "stadium": "Ashton Gate Stadium", 
+        "team1": "Bristol City", 
+        "team1Form": "", 
+        "team2": " Plymouth Argyle", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5pfqedkme2kabtqhkln35pf3l.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_41pv4kcoqzdkswdzqhll8ellb.png", 
+        "date": "2018-08-15", 
+        "stadium": "Memorial Stadium", 
+        "team1": "Bristol Ro", 
+        "team1Form": "", 
+        "team2": "ers", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dmz37633qbsvl7gncq5s51yjw.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bewbbriuwh3i7a2zn19e6d0v4.png", 
+        "date": "2018-08-15", 
+        "stadium": "Abbey Stadium", 
+        "team1": "Cambridge United", 
+        "team1Form": "", 
+        "team2": " Newport County", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4wqa3vdd3owvzbdpmh91uvvhp.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ep3im6aygoatju4u3ws8v3mog.png", 
+        "date": "2018-08-15", 
+        "stadium": "Brunton Park", 
+        "team1": "Carlisle United", 
+        "team1Form": "", 
+        "team2": " Blackburn Ro", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_fvr504m6gaxsfmtx4fwm7iq1.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_crpd0wug26fg7skfzmf11x1k2.png", 
+        "date": "2018-08-15", 
+        "stadium": "Jonny-Rocks Stadium", 
+        "team1": "Cheltenham Town", 
+        "team1Form": "", 
+        "team2": " Colchester United", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9ze1c55gavzeg6vw37ca1banb.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8rfydplrc9ki0sirqi0drcybk.png", 
+        "date": "2018-08-15", 
+        "stadium": "Alexandra Stadium", 
+        "team1": "Crewe Alexandra", 
+        "team1Form": "", 
+        "team2": " Fleetwood Town", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dv9l02o316cd9hbkxaho2u12f.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8b523ujgl21tbc01me65q0aoh.png", 
+        "date": "2018-08-15", 
+        "stadium": "St. James' Park", 
+        "team1": "Exeter City", 
+        "team1Form": "", 
+        "team2": " Ipswich Town", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6ipyteigr21t78l6fro3ig10j.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dqitrs0w52z0p9f4t07z0aqzw.png", 
+        "date": "2018-08-15", 
+        "stadium": "Blundell Park", 
+        "team1": "Grimsby Town", 
+        "team1Form": "", 
+        "team2": " Rochdale", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_48gk2hpqtsl6p9sx9kjhaydq4.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_69t8imcdaqlgfbds2p58596my.png", 
+        "date": "2018-08-15", 
+        "stadium": "Elland Road", 
+        "team1": "Leeds United", 
+        "team1Form": "", 
+        "team2": " Bolton Wanderers", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_96d39j4semk5jyn7fkud7kk91.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2b5k2yusdx2ctd5cdv739p3il.png", 
+        "date": "2018-08-15", 
+        "stadium": "Moss Rose Ground", 
+        "team1": "Macclesfield Town", 
+        "team1Form": "", 
+        "team2": " Bradford City", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4hcdmgl41o4blqpbeelu56h7y.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5qwskbjpa17fvmtuu5qijy7cz.png", 
+        "date": "2018-08-15", 
+        "stadium": "One Call Stadium", 
+        "team1": "Mansfield Town", 
+        "team1Form": "", 
+        "team2": " Accrington Stanley", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_cq0jd5ztepqjjeikk5trb15vr.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d3mskb8nk3afyi3tn0gt8kwh8.png", 
+        "date": "2018-08-15", 
+        "stadium": "Riverside Stadium", 
+        "team1": "Middlesbrough", 
+        "team1Form": "", 
+        "team2": " Notts County", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_40d2qd8lr1tgsvmg5l1fzaf4o.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2597fv0oiboak9jyryf3gt39g.png", 
+        "date": "2018-08-15", 
+        "stadium": "The Den", 
+        "team1": "Millwall", 
+        "team1Form": "", 
+        "team2": " Gillingham", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8w89tsles26jm12aoelwvlttt.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2ezfenuwk3y65p8jdbj55xqt0.png", 
+        "date": "2018-08-15", 
+        "stadium": "Stadium mk", 
+        "team1": "Milton Keynes Dons", 
+        "team1Form": "", 
+        "team2": " Charlton Athletic", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_suz80crpy3anixyzccmu6jzp.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6xhqd6it53k2s5n7veo817ga4.png", 
+        "date": "2018-08-15", 
+        "stadium": "Carrow Road", 
+        "team1": "Norwich City", 
+        "team1Form": "", 
+        "team2": " Ste", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5oj03g835apcc9g551do5vm5e.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3ptd7zlc5isrongig0wij2id4.png", 
+        "date": "2018-08-15", 
+        "stadium": "Boundary Park", 
+        "team1": "Oldham Athletic", 
+        "team1Form": "", 
+        "team2": " Derby County", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ahm0t06rup1bkd9z0mxl2lmph.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dacoc20k0n3fxu4zek8wufmko.png", 
+        "date": "2018-08-15", 
+        "stadium": "The Kassam Stadium", 
+        "team1": "Oxford United", 
+        "team1Form": "", 
+        "team2": " Co", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ejm092fnt9zoxbpuklzd52ji8.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_b3vbyitzi3nrw9ehj1eoko219.png", 
+        "date": "2018-08-15", 
+        "stadium": "Vale Park", 
+        "team1": "Port Vale", 
+        "team1Form": "", 
+        "team2": " Lincoln City", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_80jtkz2echk6yyyb9e2595cxr.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7sck2yj98lv9ogljofza0c7f9.png", 
+        "date": "2018-08-15", 
+        "stadium": "Fratton Park", 
+        "team1": "Portsmouth", 
+        "team1Form": "", 
+        "team2": " AFC Wimbledon", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5kq4izdz28qjaxoa6ujclwghj.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8xeuwzxnm7hdlbjjuezgfkz3w.png", 
+        "date": "2018-08-15", 
+        "stadium": "Deepdale Stadium", 
+        "team1": "Preston North End", 
+        "team1Form": "", 
+        "team2": " Morecambe", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_72nmbktwvcj3wizfp37yjf0dp.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_5jjqm8h6qm1w4s5f93uubhdrj.png", 
+        "date": "2018-08-15", 
+        "stadium": "Loftus Road Stadium", 
+        "team1": "Queens Park Rangers", 
+        "team1Form": "", 
+        "team2": " Peterborough United", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6m5s30n9ej0dqfk1hfyrlkhdw.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_dmypntcdsl5w8w8pcqs0b8mpj.png", 
+        "date": "2018-08-15", 
+        "stadium": "AESSEAL New York Stadium", 
+        "team1": "Rotherham United", 
+        "team1Form": "", 
+        "team2": " Wigan Athletic", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8mgwfz9q3fsypynyeh0y3785e.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_6dryhu9wer42nt1dxoophpk96.png", 
+        "date": "2018-08-15", 
+        "stadium": "Glanford Park", 
+        "team1": "Scunthorpe United", 
+        "team1Form": "", 
+        "team2": " Doncaster Ro", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bws31egwjda253q9lvykgnivo.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_f0figafm2v9h8ofo6slajj7xf.png", 
+        "date": "2018-08-15", 
+        "stadium": "Bramall Lane", 
+        "team1": "Sheffield United", 
+        "team1Form": "", 
+        "team2": " Hull City", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_82kapkjwonlv9j1ui0ytv5sii.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8mbtyq0has0uu0565fm9t5cdo.png", 
+        "date": "2018-08-15", 
+        "stadium": "Montgomery Waters Meadow", 
+        "team1": "Shrewsbury Town", 
+        "team1Form": "", 
+        "team2": " Burton Albion", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3gzm3yebdvvub99yk0zh3b5s1.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_7yx5dqhhphyvfisohikodajhv.png", 
+        "date": "2018-08-15", 
+        "stadium": "Roots Hall Stadium", 
+        "team1": "Southend United", 
+        "team1Form": "", 
+        "team2": " Brentford", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9ws3x82yqn7svjq6onvtunpst.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_17zuelixesst1z59fwcix2dil.png", 
+        "date": "2018-08-15", 
+        "stadium": "The Energy Check County Ground", 
+        "team1": "Swindon Town", 
+        "team1Form": "", 
+        "team2": " Forest Green Ro", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9j48z9ohucqbzpneoghrgwevs.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1tev1lioyfaxbk2uod5uekzyj.png", 
+        "date": "2018-08-15", 
+        "stadium": "Prenton Park", 
+        "team1": "Tranmere Ro", 
+        "team1Form": "", 
+        "team2": "ers", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_jv3jh5m5t7qy5t37vwwmnj16.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_761h1nqgu3ogxgvp8ubb71r00.png", 
+        "date": "2018-08-15", 
+        "stadium": "Adams Park", 
+        "team1": "Wycombe Wanderers", 
+        "team1Form": "", 
+        "team2": " Northampton Town", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_3th8q5aj65z6ma2lk1au84k54.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_b496gs285it6bheuikox6z9mj.png", 
+        "date": "2018-08-15", 
+        "stadium": "Huish Park Stadium", 
+        "team1": "Yeo", 
+        "team1Form": "", 
+        "team2": "il Town", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_egm6z8hhksfg8f6a49jigczxh.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_8kreqtde5jdktcib0kg7dknac.png", 
+        "date": "2018-08-15", 
+        "stadium": "Madejski Stadium", 
+        "team1": "Reading", 
+        "team1Form": "", 
+        "team2": " Birmingham City", 
+        "team2Form": "", 
+        "time": "00:30", 
+        "tournament": "League Cup"
+      }, 
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_d1lhefp805y0rcbjqkpu4fq0n.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_aksa492u5hf93giwcn2zt1nzz.png", 
+        "date": "2018-08-15", 
+        "stadium": "The Hawthorns", 
+        "team1": "West Bromwich Albion", 
+        "team1Form": "", 
+        "team2": " Luton Town", 
+        "team2Form": "", 
+        "time": "00:30", 
+        "tournament": "League Cup"
+      }
+    ], 
+    "2018-08-16": [], 
+    "2018-08-17": [
+      {
+        "crestUri1": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1r3545b2dzan8yqa80gtmcjch.png", 
+        "crestUri2": "https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_1musyruv2ufjrjnj6gvdbr8kt.png", 
+        "date": "2018-08-17", 
+        "stadium": "Stadium of Light", 
+        "team1": "Sunderland", 
+        "team1Form": "", 
+        "team2": " Sheffield Wednesday", 
+        "team2Form": "", 
+        "time": "00:15", 
+        "tournament": "League Cup"
       }
     ]
   }
